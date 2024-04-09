@@ -1,0 +1,93 @@
+body {
+  background-color: #7DD0D7
+
+}
+body {
+	color: #000000;
+	font-family: "Gill Sans", sans-serif;
+	font-size: 17px;
+}
+
+h1 {
+	color: #000000;
+	font-family: helvetica;
+}
+
+h2 {
+	color: #000000;
+	font-family: helvetica;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+h3 {
+	color: #000080;
+	font-family: helvetica;
+	font-size: 15px;
+	font-weight: lighter;
+}
+a {
+  font-family: helvetica;
+  text-decoration: none;
+  color: #000080;
+  font-weight: 600;
+  font-size: 16px;
+}
+a:hover {
+  color: black;
+}
+.justify-content: center;
+
+.container {
+  width: 65%;
+  margin: 30px auto;
+
+.card-white {
+  background-color: #ADD8E6;
+  padding: 20px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 20px;
+  text-align: center;
+
+.img {
+ max-width: 100%;
+ max-height: 100%;
+ text-align: center;
+}
+.me {
+ height: 200px;
+ width: 200px;
+ text-align: center;
+}
+.img {
+ max-width: 100%;
+ max-height: 100%;
+ text-align: center;
+
+}
+div {
+  height: 150px;
+  display: flex;
+justify-content: center;
+  align-items: center;
+  border: 3px solid
+}
+
+ .image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+.card-white {
+	text-align: center;
+  background-color: #ADD8E6;
+  padding: 20px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 20px;
+  text-align: center;
+}
